@@ -9,5 +9,10 @@ public class Demo {
 		// TODO Auto-generated method stub
 
 	}
+public void m1()
+{
 
+
+}
+	
 }
