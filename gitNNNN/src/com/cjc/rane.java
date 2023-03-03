@@ -9,6 +9,16 @@ public class rane {
 		System.out.println("111111111111");
 
 		System.out.println("22222222222");
+		
+		
+		public void m1(){
+		
+		
+		
+		}
+		
+		
+		
 
 	}
 }
